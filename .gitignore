@@ -1,0 +1,6 @@
+# ignore all .htaccess files
+*.htaccess
+*.htpasswd
+
+#ignore sitemap file
+sitemap.xml
